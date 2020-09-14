@@ -1,6 +1,3 @@
-@@ -0,0 +1,495 @@
-
-
 pragma solidity ^0.5.0;
 
 interface IERC20 {
